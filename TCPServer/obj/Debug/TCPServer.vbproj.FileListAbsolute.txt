@@ -1,0 +1,12 @@
+D:\projects\TCPServer\TCPServer\bin\Debug\TCPServer.exe.config
+D:\projects\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+D:\projects\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+D:\projects\TCPServer\TCPServer\bin\Debug\TCPServer.xml
+D:\projects\TCPServer\TCPServer\obj\Debug\TCPServer.vbproj.AssemblyReference.cache
+D:\projects\TCPServer\TCPServer\obj\Debug\TCPServer.Form1.resources
+D:\projects\TCPServer\TCPServer\obj\Debug\TCPServer.Resources.resources
+D:\projects\TCPServer\TCPServer\obj\Debug\TCPServer.vbproj.GenerateResource.cache
+D:\projects\TCPServer\TCPServer\obj\Debug\TCPServer.vbproj.CoreCompileInputs.cache
+D:\projects\TCPServer\TCPServer\obj\Debug\TCPServer.exe
+D:\projects\TCPServer\TCPServer\obj\Debug\TCPServer.xml
+D:\projects\TCPServer\TCPServer\obj\Debug\TCPServer.pdb
